@@ -5,7 +5,7 @@
 - Jetpack Compose and Kotlin (and it's libraries) are now the standard way to develop Android apps.
 - Used Hilt for dependency injection because of ease of use and less boilerplate code and ease of testing. Koin could have work too.
 - Used ViewModel for the connection between data layer and ui layer which is lifecycle-aware and preserves the state on configuration changes.
-- Used coroutines for heavy workload and concurrent operations which works best with Jetpack Compose and ViewModels and is the way to go background work.
+- Used coroutines for heavy workload and concurrent operations which works best with Jetpack Compose and ViewModels and is the way to go for background work.
 - Because this data source (local Json file) is not reactive and it will not be updated in anyway, flows were not used for it.
 - Used Kotlins standard serialization library for fetching Json objects.
 
