@@ -18,3 +18,6 @@
 - Made sure that UI/UX follows the standard MaterialDesign system.
 - Better state-mangement for the UI.
 - Better documentation in the code.
+  
+# Important
+- @Singleton annotation was discarded due to javax and jakarta package clash. All instances such as (repository, datasources,question maker et...) could and should be @Singleton.
