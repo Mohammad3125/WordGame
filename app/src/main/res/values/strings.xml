@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">WordGame</string>
+    <string name="get_back_from_question_page">get back from question page</string>
+    <string name="is_the_translation_correct">Is the translation correct?</string>
+    <string name="defaultWordPreview">Word</string>
+    <string name="textLoading">Loading</string>
+    <string name="question">Question %1$s/%2$s</string>
+    <string name="quiz_finished">Finished!</string>
+    <string name="correct_answers_out_of_total">Correct Answers %1$s/%2$s</string>
+    <string name="try_again">Try Again</string>
+    <string name="average_time">Average Time: %1$s</string>
+    <string name="finished">Finished</string>
+    <string name="incorrect_answer">Incorrect Answer</string>
+    <string name="correct_answer">Correct Answer</string>
+    <string name="select_question_time">Question Time</string>
+    <string name="time">%1$d s</string>
+    <string name="select_total_questions">Total Questions</string>
+    <string name="start_game">Start Game</string>
+</resources>
